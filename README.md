@@ -18,7 +18,7 @@ A cinematic movie discovery platform built with React and TMDB API.
 - Custom CSS
 
 ## 🌐 Live Demo
-PASTE_NETLIFY_LINK_HERE
+https://stealight.netlify.app/
 
 ## 👨‍💻 Created by
 Lakshya Jain
