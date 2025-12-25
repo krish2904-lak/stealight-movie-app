@@ -1,4 +1,27 @@
 # React + Vite
+# 🎬 KEEN – Movie Discovery App
+https://stealight.netlify.app/ LIVE LINK
+
+A cinematic movie discovery platform built with React and TMDB API.
+
+## ✨ Features
+- Real-time movie search
+- Hover trailer preview with sound
+- Cinematic hero background
+- Editorial movie details modal
+- IMDb & trailer links
+- Premium UI/UX
+
+## 🛠 Tech Stack
+- React (Vite)
+- TMDB API
+- Custom CSS
+
+## 🌐 Live Demo
+PASTE_NETLIFY_LINK_HERE
+
+## 👨‍💻 Created by
+Lakshya Jain
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
